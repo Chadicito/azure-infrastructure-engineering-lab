@@ -104,3 +104,22 @@ The following files are excluded from version control:
 Cloud Infrastructure Engineering Lab
 
 Technologies: Azure | Terraform | Linux | Git | GitHub
+
+
+## Architecture Diagram
+
+![Azure Infrastructure Architecture](docs/architecture/azure-lab-architecture.png)
+
+## Implementation Evidence
+
+### Terraform Plan
+![Terraform Plan](evidence/screenshots/01-terraform-plan.png)
+
+### Terraform Apply
+![Terraform Apply](evidence/screenshots/02-terraform-apply.png)
+
+### SSH Connectivity
+![SSH Connectivity](evidence/screenshots/05-linux-ssh.png)
+
+### Terraform Destroy
+![Terraform Destroy](evidence/screenshots/06-terraform-destroy.png)
